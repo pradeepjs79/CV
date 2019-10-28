@@ -108,9 +108,15 @@ h3{
 
 @media only screen and (max-width: 400px){
  .coding{
-  width: 90%;
+  width: 100%;
+  margin-bottom: 50px;
  }
  .seo{
-  width: 90%;
+  width: 100%;
+  margin-bottom: 50px;
+ }
+ .bottom-cloud:
+ {
+  left: 150px;
  }
 }
