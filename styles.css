@@ -96,13 +96,13 @@ h2 {
 .coding {
  float: left;
  margin-right: 30px;
- width: 25%;
+ max-width: 25%;
 }
 
 .seo {
  float: right;
  margin-left: 30px;
- width: 25%;
+ max-width: 25%;
 }
 
 .contact-me img {
